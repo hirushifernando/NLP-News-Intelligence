@@ -1,0 +1,6 @@
+Metric,PyTorch,Keras
+Test Accuracy,0.9118421053,0.9138157964
+Test Loss,0.2667369462,0.2630495429
+Macro Precision,0.91,0.91
+Macro Recall,0.91,0.91
+Macro F1,0.91,0.91
